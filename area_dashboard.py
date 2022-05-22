@@ -37,7 +37,6 @@ sprint_fig
 sprint_priority_fig = px.bar(selected_sprint, x='Developer_Area', y='Points',color ='Priority',barmode="group",title="Developed area by priority")
 sprint_priority_fig
 #df=selected_area["Points"].mode()
-#df
 #st.metric(label="Average", value=agile_df)
 
 
