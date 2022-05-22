@@ -1,0 +1,19 @@
+ID,Title,Developer,Tester,Developer_Area,Start_date,End_date,Points,Priority,Type,Sprint
+S-1,S-Alpha,Adam,Jack,Login,07-15-2021,07-20-2021,1,Low,S,Sprint 22
+S-2,S-Bravo,Eve,Jill,Save,5-18-2021,5-20-2021,2,Medium,S,Sprint 22
+S-3,S-Charlie,Adam,Jack,Favorite,1-20-2021,1-21-2021,3,High,S,Sprint 22
+S-4,S-Delta,Eve,Jill,Add,2-5-2021,2-10-2021,5,Low,S,Sprint 22
+S-5,S-Eagle,Adam,Jack,Login,1-10-2021,1-13-2021,8,Medium,S,Sprint 22
+S-6,S-Fries,Eve,Jill,Save,4-13-2021,4-20-2021,13,High,S,Sprint 22
+S-7,S-Gator,Adam,Jack,Favorite,6-16-2021,6-26-2021,2,Low,S,Sprint 22
+S-8,S-Helment,Eve,Jill,Add,4-21-2021,4-25-2021,5,Medium,S,Sprint 22
+S-9,S-Igloo,Adam,Jack,Login,3-3-2021,3-5-2021,5,High,S,Sprint 22
+D-1,D-Joker,Eve,Jill,Save,2-7-2021,2-17-2021,3,Low,D,Sprint 22
+D-2,D-Kite,Adam,Jack,Favorite,6-16-2021,6-21-2021,8,Medium,D,Sprint 22
+D-3,D-Loony,Eve,Jill,Add,2-4-2021,2-11-2021,1,High,D,Sprint 22
+D-4,D-Master,Adam,Jack,Login,1-14-2021,1-18-2021,2,Low,D,Sprint 22
+D-5,D-Night,Eve,Jill,Save,4-24-2021,4-26-2021,8,Medium,D,Sprint 22
+D-6,D-Owl,Adam,Jack,Favorite,5-17-2021,5-22-2021,5,High,D,Sprint 22
+D-7,D-Panther,Eve,Jill,Add,3-28-2021,3-30-2021,3,Low,D,Sprint 22
+D-8,D-Queen,Adam,Jack,Login,4-30-2021,5-2-2021,3,Medium,D,Sprint 22
+D-9,D-Rich,Eve,Jill,Save,7-20-2021,7-22-2021,3,High,D,Sprint 22
