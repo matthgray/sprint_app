@@ -7,9 +7,9 @@ import seaborn as sns
 import numpy as np
 import time
 # read data
-
-agile_df = pd.read_csv("Torch_mock_data.csv")
-st.write("Sprint Snapshot Dashboard")
+sprint_url ="https://raw.githubusercontent.com/matthgray/sprint_app/master/Torch_mock_data.csv"
+agile_df = pd.read_csv(sprint_url)
+#st.write("Sprint Snapshot Dashboard")
 st.markdown('''DASHBOARDS FOR SOFTWARE AREAS''')
 
 st.dataframe(agile_df)
